@@ -1,0 +1,324 @@
+{
+  "uuid": "754613b6-bdcb-4ffc-9747-878ca955014e",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "c731b0ef-432a-4381-a153-b4237715faf6",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "pikachu": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739645499890,
+            "caughtTimestamp": 1739645499890
+          }
+        },
+        "weedle": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739646419102,
+            "caughtTimestamp": 1739646419102
+          }
+        },
+        "kakuna": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739646635967,
+            "caughtTimestamp": 1739646635967
+          }
+        },
+        "beedrill": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739647058817,
+            "caughtTimestamp": 1739647058817
+          }
+        },
+        "combee": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739651034815,
+            "caughtTimestamp": 1739651034815
+          }
+        },
+        "vespiquen": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739654987009,
+            "caughtTimestamp": 1739654987009
+          }
+        },
+        "vulpix": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739656896204,
+            "caughtTimestamp": 1739656896204
+          }
+        },
+        "ponyta": {
+          "galar": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739658027209,
+            "caughtTimestamp": 1739658027209
+          }
+        },
+        "sewaddle": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739658317217,
+            "caughtTimestamp": 1739658317217
+          }
+        },
+        "swadloon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739658328016,
+            "caughtTimestamp": 1739658328016
+          }
+        },
+        "ninetales": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739659141777,
+            "caughtTimestamp": 1739659141777
+          }
+        },
+        "mareep": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739659681776,
+            "caughtTimestamp": 1739659681776
+          }
+        },
+        "lechonk": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739721599395,
+            "caughtTimestamp": 1739721599395
+          }
+        },
+        "tatsugiri": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739721683261,
+            "caughtTimestamp": 1739721683261
+          }
+        },
+        "raticate": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739722229193,
+            "caughtTimestamp": 1739722229193
+          }
+        },
+        "yamper": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739722656451,
+            "caughtTimestamp": 1739722656451
+          }
+        },
+        "emolga": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739723157748,
+            "caughtTimestamp": 1739723157748
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "name": "Cobbledex_RewardHistory"
+    },
+    "captureCount": {
+      "name": "captureCount",
+      "defeats": {
+        "pikachu": 1,
+        "weedle": 1,
+        "kakuna": 1,
+        "beedrill": 1,
+        "combee": 1,
+        "vespiquen": 1,
+        "vulpix": 1,
+        "ponyta": 1,
+        "sewaddle": 1,
+        "swadloon": 1,
+        "ninetales": 1,
+        "mareep": 1,
+        "lechonk": 1,
+        "tatsugiri": 1,
+        "raticate": 1,
+        "yamper": 1,
+        "emolga": 1
+      }
+    },
+    "yacb$boostManager": {
+      "name": "yacb$boostManager",
+      "manager": {
+        "shinyBoost": {
+          "active": false,
+          "amplifier": 0.0,
+          "ticksRemain": 0
+        },
+        "speciesWeightBoosts": {},
+        "labelWeightBoosts": {},
+        "endedBoosts": [],
+        "shouldSave": true,
+        "saveTimer": 1200
+      }
+    },
+    "koStreak": {
+      "name": "koStreak",
+      "species": "bellsprout",
+      "count": 1
+    },
+    "koCount": {
+      "name": "koCount",
+      "defeats": {
+        "gimmighoul": 1,
+        "buizel": 1,
+        "bellsprout": 1
+      }
+    },
+    "captureStreak": {
+      "name": "captureStreak",
+      "species": "emolga",
+      "count": 1
+    },
+    "encounter": {
+      "name": "encounter",
+      "encounters": {
+        "pikachu": true,
+        "combee": true,
+        "weedle": true,
+        "kakuna": true,
+        "beedrill": true,
+        "gimmighoul": true,
+        "buizel": true,
+        "vespiquen": true,
+        "vulpix": true,
+        "bellsprout": true,
+        "ponyta": true,
+        "sewaddle": true,
+        "swadloon": true,
+        "ninetales": true,
+        "mareep": true,
+        "lechonk": true,
+        "tatsugiri": true,
+        "raticate": true,
+        "yamper": true,
+        "emolga": true
+      }
+    },
+    "cobblenavPlayerStatsData": {
+      "name": "cobblenavPlayerStatsData",
+      "totalPvpCount": 1,
+      "startDate": 1739645499890,
+      "grantedBadges": [],
+      "pokemonUsage": {
+        "79e43f30-1a65-4526-8f4d-d91959787b4e": 7,
+        "c731b0ef-432a-4381-a153-b4237715faf6": 14,
+        "2218e540-6a8a-44d2-8249-09385bc699b0": 9,
+        "14a2ae2b-d196-4954-83e1-e44eb926b0ca": 4,
+        "ab1f6a5d-ecba-43c1-9a0b-2bb7edee21b0": 2,
+        "3e3a822d-7a90-4fcb-891c-58df0fc549d6": 12,
+        "f32560c5-4d94-4f84-bbee-6c3ab9aaaea0": 3
+      }
+    },
+    "cobblenavContactData": {
+      "name": "cobblenavContactData",
+      "contacts": [
+        {
+          "key": "dd3cf1fb-ca12-4a3f-a0b8-895b243ddce9",
+          "profile": {
+            "id": "dd3cf1fb-ca12-4a3f-a0b8-895b243ddce9",
+            "name": "YokyLaw"
+          },
+          "name": "YokyLaw",
+          "title": "",
+          "winnings": 0,
+          "losses": 1,
+          "team": [
+            {
+              "name": "electivire",
+              "level": 31
+            },
+            {
+              "name": "raichu",
+              "level": 30
+            }
+          ],
+          "trainer": false
+        }
+      ],
+      "title": ""
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 10,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 5,
+    "totalBattleVictoryCount": 12,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 12,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 1,
+    "totalTypeCaptureCounts": {
+      "bug": 3,
+      "poison": 1,
+      "flying": 2,
+      "fire": 1,
+      "psychic": 1,
+      "grass": 1,
+      "electric": 3,
+      "normal": 2
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:gimmighoul": 1,
+      "cobblemon:buizel": 1,
+      "cobblemon:bellsprout": 1
+    },
+    "aspectsCollected": {}
+  }
+}

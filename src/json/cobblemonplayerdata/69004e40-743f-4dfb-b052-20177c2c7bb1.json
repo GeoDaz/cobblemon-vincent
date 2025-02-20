@@ -1,0 +1,314 @@
+{
+  "uuid": "69004e40-743f-4dfb-b052-20177c2c7bb1",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "37855c44-d54e-4d20-ac2b-5fadd03092b9",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "bulbasaur": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739645499895,
+            "caughtTimestamp": 1739645499895
+          }
+        },
+        "ivysaur": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739645865354,
+            "caughtTimestamp": 1739645865354
+          }
+        },
+        "venusaur": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739648100059,
+            "caughtTimestamp": 1739648100059
+          }
+        },
+        "buneary": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739649620150,
+            "caughtTimestamp": 1739649620150
+          }
+        },
+        "celebi": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739649654280,
+            "caughtTimestamp": 1739649654280
+          }
+        },
+        "seedot": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739651315452,
+            "caughtTimestamp": 1739651315452
+          }
+        },
+        "cottonee": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739651798912,
+            "caughtTimestamp": 1739651852111
+          }
+        },
+        "whimsicott": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739651926764,
+            "caughtTimestamp": 1739651926764
+          }
+        },
+        "morelull": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739710134207,
+            "caughtTimestamp": 1739710134207
+          }
+        },
+        "grookey": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739711757267,
+            "caughtTimestamp": 1739711757267
+          }
+        },
+        "tropius": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739712416613,
+            "caughtTimestamp": 1739712416613
+          }
+        },
+        "gossifleur": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739712630210,
+            "caughtTimestamp": 1739712630210
+          }
+        },
+        "petilil": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739712678104,
+            "caughtTimestamp": 1739712678104
+          }
+        },
+        "capsakid": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739714916062,
+            "caughtTimestamp": 1739714916062
+          }
+        },
+        "ditto": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739715299505,
+            "caughtTimestamp": 1739715299505
+          }
+        },
+        "exeggcute": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739715429607,
+            "caughtTimestamp": 1739715429607
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "name": "Cobbledex_RewardHistory"
+    },
+    "captureCount": {
+      "name": "captureCount",
+      "defeats": {
+        "bulbasaur": 1,
+        "ivysaur": 1,
+        "venusaur": 1,
+        "buneary": 1,
+        "celebi": 1,
+        "seedot": 1,
+        "cottonee": 1,
+        "whimsicott": 1,
+        "morelull": 1,
+        "grookey": 1,
+        "tropius": 1,
+        "gossifleur": 1,
+        "petilil": 1,
+        "capsakid": 1,
+        "ditto": 1,
+        "exeggcute": 1
+      }
+    },
+    "yacb$boostManager": {
+      "name": "yacb$boostManager",
+      "manager": {
+        "shinyBoost": {
+          "active": false,
+          "amplifier": 0.0,
+          "ticksRemain": 0
+        },
+        "speciesWeightBoosts": {},
+        "labelWeightBoosts": {},
+        "endedBoosts": [],
+        "shouldSave": true,
+        "saveTimer": 1200
+      }
+    },
+    "koStreak": {
+      "name": "koStreak",
+      "species": "diggersby",
+      "count": 1
+    },
+    "koCount": {
+      "name": "koCount",
+      "defeats": {
+        "wooloo": 1,
+        "petilil": 1,
+        "fomantis": 1,
+        "hoothoot": 1,
+        "diggersby": 1
+      }
+    },
+    "captureStreak": {
+      "name": "captureStreak",
+      "species": "exeggcute",
+      "count": 1
+    },
+    "encounter": {
+      "name": "encounter",
+      "encounters": {
+        "pachirisu": true,
+        "bulbasaur": true,
+        "ivysaur": true,
+        "venusaur": true,
+        "buneary": true,
+        "celebi": true,
+        "seedot": true,
+        "cottonee": true,
+        "whimsicott": true,
+        "wooloo": true,
+        "morelull": true,
+        "grookey": true,
+        "tropius": true,
+        "petilil": true,
+        "gossifleur": true,
+        "fomantis": true,
+        "hoothoot": true,
+        "patrat": true,
+        "diggersby": true,
+        "capsakid": true,
+        "ditto": true,
+        "exeggcute": true
+      }
+    },
+    "cobblenavPlayerStatsData": {
+      "name": "cobblenavPlayerStatsData",
+      "totalPvpCount": 1,
+      "startDate": 1739645499894,
+      "grantedBadges": [],
+      "pokemonUsage": {
+        "37855c44-d54e-4d20-ac2b-5fadd03092b9": 10,
+        "f4153815-9159-4f10-b5b4-cb36b013907f": 3,
+        "7866a859-d845-478c-81a7-b09a8bc2aa20": 2,
+        "d68bfc4e-0d3f-4ab8-ae49-c916ce212bc5": 6,
+        "251369b3-70b6-4ab1-b3b6-831d574e277e": 6,
+        "c740d8c9-632e-49ba-a9c8-ba9477b410c8": 9,
+        "8ea7290c-3f49-463d-b870-2c9767adf2db": 9,
+        "b596acca-cf42-43f5-92b1-0a1342b08036": 9
+      }
+    },
+    "cobblenavContactData": {
+      "name": "cobblenavContactData",
+      "contacts": [
+        {
+          "key": "dd3cf1fb-ca12-4a3f-a0b8-895b243ddce9",
+          "profile": {
+            "id": "dd3cf1fb-ca12-4a3f-a0b8-895b243ddce9",
+            "name": "YokyLaw"
+          },
+          "name": "YokyLaw",
+          "title": "",
+          "winnings": 0,
+          "losses": 1,
+          "team": [
+            {
+              "name": "electivire",
+              "level": 32
+            }
+          ],
+          "trainer": false
+        }
+      ],
+      "title": ""
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 12,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 7,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 7,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 1,
+    "totalTypeCaptureCounts": {
+      "normal": 2,
+      "grass": 10,
+      "fairy": 3,
+      "flying": 1,
+      "psychic": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:wooloo": 1,
+      "cobblemon:petilil": 1,
+      "cobblemon:fomantis": 1,
+      "cobblemon:hoothoot": 1,
+      "cobblemon:diggersby": 1
+    },
+    "aspectsCollected": {}
+  }
+}
