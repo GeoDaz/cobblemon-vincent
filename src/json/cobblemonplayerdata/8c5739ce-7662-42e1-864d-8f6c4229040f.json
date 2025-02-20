@@ -128,6 +128,14 @@
             "discoveredTimestamp": 1739814801126,
             "caughtTimestamp": 1739814801126
           }
+        },
+        "articuno": {
+          "galar": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740058877909,
+            "caughtTimestamp": 1740058877909
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -148,7 +156,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
       ],
       "name": "Cobbledex_RewardHistory"
     },
@@ -169,7 +178,8 @@
         "dartrix": 1,
         "decidueye": 1,
         "phione": 1,
-        "kyogre": 1
+        "kyogre": 1,
+        "articuno": 1
       }
     },
     "yacb$boostManager": {
@@ -183,8 +193,8 @@
         "speciesWeightBoosts": {},
         "labelWeightBoosts": {},
         "endedBoosts": [],
-        "shouldSave": true,
-        "saveTimer": 1200
+        "shouldSave": false,
+        "saveTimer": 813
       }
     },
     "koStreak": {
@@ -208,7 +218,7 @@
     },
     "captureStreak": {
       "name": "captureStreak",
-      "species": "kyogre",
+      "species": "articuno",
       "count": 1
     },
     "encounter": {
@@ -239,7 +249,8 @@
         "kyogre": true,
         "gloom": true,
         "igglybuff": true,
-        "swellow": true
+        "swellow": true,
+        "articuno": true
       }
     },
     "cobblenavPlayerStatsData": {
@@ -248,12 +259,12 @@
       "startDate": 1739543358426,
       "grantedBadges": [],
       "pokemonUsage": {
-        "b507dbed-9b4e-4b01-9a82-a8bd3beedd64": 8,
-        "ef3addbd-8840-40af-9dee-b90501f44380": 19,
-        "79efd21d-87f3-4f6e-9e41-16400b328166": 6,
+        "b507dbed-9b4e-4b01-9a82-a8bd3beedd64": 9,
+        "ef3addbd-8840-40af-9dee-b90501f44380": 20,
+        "79efd21d-87f3-4f6e-9e41-16400b328166": 7,
         "aca08679-dc4d-4100-a9b6-dfa14231d7ee": 1,
-        "908f0d11-76db-488c-b2eb-a6bfc825d585": 6,
-        "dae16292-f61e-402c-ab12-b4887d5345d7": 4
+        "908f0d11-76db-488c-b2eb-a6bfc825d585": 7,
+        "dae16292-f61e-402c-ab12-b4887d5345d7": 5
       }
     },
     "cobblenavContactData": {
@@ -298,12 +309,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 5,
+    "totalCaptureCount": 6,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 15,
+    "totalBattleVictoryCount": 16,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 14,
+    "totalPvWBattleVictoryCount": 15,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 2,
@@ -313,8 +324,9 @@
       "dragon": 1,
       "ground": 1,
       "grass": 1,
-      "flying": 1,
-      "water": 2
+      "flying": 2,
+      "water": 2,
+      "psychic": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:tauros": 2,

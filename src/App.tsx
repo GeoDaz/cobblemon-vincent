@@ -74,19 +74,18 @@ function App() {
 										: ''
 								}
 							>
-								<TableCell className="text-left">{user.name}</TableCell>
-								<TableCell className="text-right">
-									{user.nbCatches}{' '}
-									{user.topCatches && (
-										<FontAwesomeIcon icon={faWebAwesome} />
+								<TableCell className="text-left">
+									{user.name}{' '}
+									{(user.topCatches || user.topWins) && (
+										<>
+											<FontAwesomeIcon icon={faWebAwesome} />{' '}
+										</>
 									)}
 								</TableCell>
 								<TableCell className="text-right">
-									{user.wins}{' '}
-									{user.topWins && (
-										<FontAwesomeIcon icon={faWebAwesome} />
-									)}
+									{user.nbCatches}
 								</TableCell>
+								<TableCell className="text-right">{user.wins}</TableCell>
 							</TableRow>
 						))}
 					</TableBody>
