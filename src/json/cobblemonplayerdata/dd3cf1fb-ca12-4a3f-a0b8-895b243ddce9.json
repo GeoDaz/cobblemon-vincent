@@ -1256,8 +1256,8 @@
         "speciesWeightBoosts": {},
         "labelWeightBoosts": {},
         "endedBoosts": [],
-        "shouldSave": true,
-        "saveTimer": 1200
+        "shouldSave": false,
+        "saveTimer": 991
       }
     },
     "koStreak": {
@@ -1446,15 +1446,15 @@
     },
     "cobblenavPlayerStatsData": {
       "name": "cobblenavPlayerStatsData",
-      "totalPvpCount": 17,
+      "totalPvpCount": 18,
       "startDate": 1739471853621,
       "grantedBadges": [],
       "pokemonUsage": {
-        "2d3863ee-f6e9-4793-af30-84f1e2c3d4ae": 124,
+        "2d3863ee-f6e9-4793-af30-84f1e2c3d4ae": 125,
         "4c1ce0a5-013f-454e-a04c-6ced1972749b": 1,
         "a967b535-9146-4a9d-8161-b81f1476d9c3": 2,
         "db0bae2f-54c7-4d67-a58c-4d3f2eade31e": 3,
-        "8768dc66-2021-4959-921b-289d7e18e1ae": 127,
+        "8768dc66-2021-4959-921b-289d7e18e1ae": 128,
         "559b9979-bd3f-4784-80e5-28485a3e638c": 1,
         "a58a7b4f-b237-4363-8cc8-090a630f3fd4": 2,
         "3c0729fe-30c5-4abd-94a2-916a8a793bfa": 77,
@@ -1462,20 +1462,20 @@
         "f6945161-81d1-426b-b488-b5eafc61519d": 1,
         "7a481adf-ff3d-4a1a-a444-a8c952f82f16": 6,
         "5c2e6970-5a36-4b07-9662-89b23ecaac61": 2,
-        "26587459-f4ee-436e-a09e-b64ec8badebf": 42,
+        "26587459-f4ee-436e-a09e-b64ec8badebf": 43,
         "0f59a13d-def5-46c5-8d55-84eab9ed339a": 3,
-        "cd8ff5ff-fe32-406f-8fc5-4589a60edc0c": 32,
+        "cd8ff5ff-fe32-406f-8fc5-4589a60edc0c": 33,
         "d631c301-ae38-41b6-88ac-77661b442e57": 3,
         "fa12e502-c0f8-4f64-8601-e6baeb072497": 2,
         "7a3c82db-4919-4aa4-a236-567055f04504": 4,
         "ebfdba3f-2717-4e20-8e59-b16c7560248d": 1,
         "b11408f0-f001-47e4-9d61-c206f3d65c9d": 1,
-        "9a79af50-7e81-476e-a9a8-84e9a0c54373": 27,
+        "9a79af50-7e81-476e-a9a8-84e9a0c54373": 28,
         "41917fdf-b625-4161-9643-48d25dfaed55": 1,
         "69f39350-d87b-4bcd-b02b-2503363e9bf4": 2,
         "c08b9c40-7b25-4945-b519-fd7a9e362844": 94,
         "492cff09-7299-437d-8e10-f26cc3d25a13": 3,
-        "3eb3577b-9df4-4cf9-9f6f-017cd576bade": 147,
+        "3eb3577b-9df4-4cf9-9f6f-017cd576bade": 148,
         "8b5661f3-a3b6-4a95-b43c-c9d8d51ae506": 2
       }
     },
@@ -1601,31 +1601,31 @@
           "name": "Azeralt",
           "title": "",
           "winnings": 3,
-          "losses": 4,
+          "losses": 5,
           "team": [
             {
-              "name": "greninja",
-              "level": 62
+              "name": "zacian",
+              "level": 75
             },
             {
-              "name": "megagyarados",
-              "level": 72
-            },
-            {
-              "name": "ceruledge",
-              "level": 67
-            },
-            {
-              "name": "garchomp",
-              "level": 52
+              "name": "greattusk",
+              "level": 75
             },
             {
               "name": "fluttermane",
-              "level": 93
+              "level": 100
             },
             {
-              "name": "gallade",
-              "level": 83
+              "name": "megagallade",
+              "level": 85
+            },
+            {
+              "name": "ceruledge",
+              "level": 75
+            },
+            {
+              "name": "ashgreninja",
+              "level": 88
             }
           ],
           "trainer": false

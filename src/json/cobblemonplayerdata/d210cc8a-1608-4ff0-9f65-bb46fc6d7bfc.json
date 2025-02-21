@@ -406,6 +406,14 @@
             "discoveredTimestamp": 1739996168504,
             "caughtTimestamp": 1739996168504
           }
+        },
+        "goodra": {
+          "hisui": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740083398019,
+            "caughtTimestamp": 1740083398019
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -462,7 +470,8 @@
         "47",
         "48",
         "49",
-        "50"
+        "50",
+        "51"
       ],
       "name": "Cobbledex_RewardHistory"
     },
@@ -517,7 +526,8 @@
         "scorbunny": 1,
         "gible": 1,
         "goomy": 1,
-        "sliggoo": 1
+        "sliggoo": 1,
+        "goodra": 1
       }
     },
     "yacb$boostManager": {
@@ -531,8 +541,8 @@
         "speciesWeightBoosts": {},
         "labelWeightBoosts": {},
         "endedBoosts": [],
-        "shouldSave": true,
-        "saveTimer": 1200
+        "shouldSave": false,
+        "saveTimer": 974
       }
     },
     "koStreak": {
@@ -611,7 +621,8 @@
         "scorbunny": true,
         "gible": true,
         "goomy": true,
-        "sliggoo": true
+        "sliggoo": true,
+        "goodra": true
       }
     },
     "cobblenavPlayerStatsData": {
@@ -670,7 +681,7 @@
   "advancementData": {
     "totalCaptureCount": 36,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 9,
+    "totalEvolvedCount": 10,
     "totalBattleVictoryCount": 59,
     "totalPvPBattleVictoryCount": 1,
     "totalPvWBattleVictoryCount": 58,

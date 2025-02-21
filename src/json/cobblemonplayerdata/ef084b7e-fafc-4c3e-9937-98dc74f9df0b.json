@@ -1106,6 +1106,46 @@
             "discoveredTimestamp": 1740005807724,
             "caughtTimestamp": 1740005807724
           }
+        },
+        "chikorita": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740094606507,
+            "caughtTimestamp": 1740094606507
+          }
+        },
+        "magby": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740095617257,
+            "caughtTimestamp": 1740095617257
+          }
+        },
+        "houndour": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740095646007,
+            "caughtTimestamp": 1740095646007
+          }
+        },
+        "celebi": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740098527158,
+            "caughtTimestamp": 1740098527158
+          }
+        },
+        "articuno": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740099947606,
+            "caughtTimestamp": 1740099947606
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1246,7 +1286,12 @@
         "131",
         "132",
         "133",
-        "134"
+        "134",
+        "135",
+        "136",
+        "137",
+        "138",
+        "139"
       ],
       "name": "Cobbledex_RewardHistory"
     },
@@ -1381,9 +1426,14 @@
         "impidimp": 1,
         "sprigatito": 1,
         "roselia": 1,
-        "stufful": 1,
+        "stufful": 2,
         "cramorant": 1,
-        "exeggutor": 1
+        "exeggutor": 1,
+        "chikorita": 1,
+        "magby": 1,
+        "houndour": 1,
+        "celebi": 1,
+        "articuno": 1
       }
     },
     "yacb$boostManager": {
@@ -1403,7 +1453,7 @@
     },
     "koStreak": {
       "name": "koStreak",
-      "species": "frillish",
+      "species": "gimmighoul",
       "count": 1
     },
     "koCount": {
@@ -1445,7 +1495,7 @@
         "araquanid": 2,
         "slowbro": 4,
         "honchkrow": 1,
-        "gimmighoul": 19,
+        "gimmighoul": 20,
         "goldeen": 2,
         "dewpider": 5,
         "shellos": 1,
@@ -1488,7 +1538,7 @@
     },
     "captureStreak": {
       "name": "captureStreak",
-      "species": "porygon",
+      "species": "stufful",
       "count": 1
     },
     "encounter": {
@@ -1682,7 +1732,12 @@
         "roselia": true,
         "stufful": true,
         "cramorant": true,
-        "exeggutor": true
+        "exeggutor": true,
+        "chikorita": true,
+        "magby": true,
+        "houndour": true,
+        "celebi": true,
+        "articuno": true
       }
     },
     "cobblenavPlayerStatsData": {
@@ -1691,20 +1746,20 @@
       "startDate": 1739473654368,
       "grantedBadges": [],
       "pokemonUsage": {
-        "a761aa5b-664e-4cba-9c43-651b5e670db1": 130,
-        "3a1dfdd8-225e-408b-8c03-b1380a3e2496": 429,
+        "a761aa5b-664e-4cba-9c43-651b5e670db1": 137,
+        "3a1dfdd8-225e-408b-8c03-b1380a3e2496": 436,
         "b86fddce-b493-4c5f-ab3e-1f980341208e": 91,
-        "b8549d62-c380-44af-97ee-22e93257788c": 422,
+        "b8549d62-c380-44af-97ee-22e93257788c": 429,
         "70d15141-3a8c-45d6-b1a5-52722f1997ec": 2,
-        "86338702-c4fc-452d-a45f-86b08b555ab0": 436,
+        "86338702-c4fc-452d-a45f-86b08b555ab0": 443,
         "50746a46-158f-474e-86b7-1a7dcf9b446c": 1,
         "911dd49e-2998-435c-8e9b-11c21cd4737a": 15,
         "db876f45-4f23-46c3-8e01-d682585e7b8c": 1,
         "dfcff53b-750a-46fb-b604-3650bba5b12c": 4,
         "08ee9764-89c2-4bde-a290-acae98065ff7": 3,
         "e1581201-e50b-4f2e-8502-8ac3c0a24be3": 211,
-        "cbc7f51f-6cc9-4bde-b48e-79c8bd6f0bbb": 398,
-        "4c0f6ad9-bd1b-4ad1-bf51-15bdbcf515bb": 433
+        "cbc7f51f-6cc9-4bde-b48e-79c8bd6f0bbb": 405,
+        "4c0f6ad9-bd1b-4ad1-bf51-15bdbcf515bb": 440
       }
     },
     "cobblenavContactData": {
@@ -1753,30 +1808,30 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 122,
+    "totalCaptureCount": 128,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 25,
-    "totalBattleVictoryCount": 419,
+    "totalBattleVictoryCount": 426,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 418,
+    "totalPvWBattleVictoryCount": 425,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 5,
     "totalTradedCount": 3,
     "totalTypeCaptureCounts": {
       "bug": 8,
       "electric": 8,
-      "dark": 8,
-      "normal": 12,
+      "dark": 9,
+      "normal": 13,
       "water": 26,
-      "psychic": 10,
-      "fire": 11,
+      "psychic": 11,
+      "fire": 13,
       "poison": 12,
       "ghost": 20,
-      "fighting": 8,
+      "fighting": 9,
       "fairy": 9,
-      "flying": 6,
-      "ice": 5,
-      "grass": 13,
+      "flying": 7,
+      "ice": 6,
+      "grass": 15,
       "steel": 4,
       "ground": 8,
       "rock": 4,
@@ -1819,7 +1874,7 @@
       "cobblemon:araquanid": 2,
       "cobblemon:slowbro": 4,
       "cobblemon:honchkrow": 1,
-      "cobblemon:gimmighoul": 19,
+      "cobblemon:gimmighoul": 20,
       "cobblemon:goldeen": 2,
       "cobblemon:dewpider": 5,
       "cobblemon:shellos": 1,

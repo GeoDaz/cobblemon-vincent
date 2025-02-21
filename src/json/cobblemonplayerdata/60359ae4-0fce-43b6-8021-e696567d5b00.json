@@ -989,8 +989,8 @@
         "speciesWeightBoosts": {},
         "labelWeightBoosts": {},
         "endedBoosts": [],
-        "shouldSave": false,
-        "saveTimer": 766
+        "shouldSave": true,
+        "saveTimer": 1200
       }
     },
     "koStreak": {
