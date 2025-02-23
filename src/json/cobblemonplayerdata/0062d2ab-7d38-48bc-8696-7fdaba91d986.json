@@ -1073,6 +1073,54 @@
             "discoveredTimestamp": 1739973140274,
             "caughtTimestamp": 1739973140274
           }
+        },
+        "applin": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740163667546,
+            "caughtTimestamp": 1740163667546
+          }
+        },
+        "squirtle": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740163888597,
+            "caughtTimestamp": 1740163888597
+          }
+        },
+        "revavroom": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740164260720,
+            "caughtTimestamp": 1740164260720
+          }
+        },
+        "quilava": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740164832241,
+            "caughtTimestamp": 1740164832241
+          }
+        },
+        "typhlosion": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740164868544,
+            "caughtTimestamp": 1740164868544
+          }
+        },
+        "tirtouga": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740165328947,
+            "caughtTimestamp": 1740165328947
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1210,7 +1258,13 @@
         "128",
         "129",
         "130",
-        "131"
+        "131",
+        "132",
+        "133",
+        "134",
+        "135",
+        "136",
+        "137"
       ],
       "name": "Cobbledex_RewardHistory"
     },
@@ -1345,7 +1399,12 @@
         "orthworm": 1,
         "varoom": 1,
         "floragato": 1,
-        "torchic": 1
+        "torchic": 1,
+        "applin": 1,
+        "squirtle": 1,
+        "revavroom": 1,
+        "quilava": 1,
+        "typhlosion": 1
       }
     },
     "yacb$boostManager": {
@@ -1460,7 +1519,7 @@
     },
     "captureStreak": {
       "name": "captureStreak",
-      "species": "torchic",
+      "species": "quilava",
       "count": 1
     },
     "encounter": {
@@ -1648,7 +1707,12 @@
         "varoom": true,
         "floragato": true,
         "diggersby": true,
-        "torchic": true
+        "torchic": true,
+        "applin": true,
+        "squirtle": true,
+        "revavroom": true,
+        "quilava": true,
+        "typhlosion": true
       }
     },
     "cobblenavPlayerStatsData": {
@@ -1658,12 +1722,13 @@
       "grantedBadges": [],
       "pokemonUsage": {
         "cafad3d4-a750-4073-a8c6-abe61e75d6d9": 7,
-        "ce08d337-5f44-485d-b591-0a18478670e8": 299,
-        "bed60d29-d34d-4d65-a015-dc715f83ac74": 77,
-        "2bdc206f-2f63-4497-9b94-0a2f62ecc4d7": 2,
+        "ce08d337-5f44-485d-b591-0a18478670e8": 302,
+        "bed60d29-d34d-4d65-a015-dc715f83ac74": 80,
+        "2bdc206f-2f63-4497-9b94-0a2f62ecc4d7": 4,
         "94853f16-cdac-4132-88d8-c9e8baeead9a": 19,
         "61904a6a-ca7a-4d9d-8a02-7e95785567d5": 6,
         "09a017fb-9a56-4eba-816e-69b06ece13a8": 27,
+        "fb72855d-e756-42d9-84bd-bcf9c7317344": 1,
         "e8446ee5-47cc-4f3b-b722-2b7ca44b1b90": 297,
         "faffa714-3b0e-4915-a316-04d94fe5830e": 2,
         "b4b03d57-fde6-4736-b6a3-45d86e9eb4ca": 33,
@@ -1685,7 +1750,8 @@
         "bd2baf15-41a9-4f1b-85c5-cd3cbbd63b97": 1,
         "d5be8fda-b666-4f86-b3a0-975c82eeb3e3": 184,
         "732f88a0-032c-400f-a7c7-3f08487fc1a9": 3,
-        "ee38dcd2-56a1-4f11-b489-8f7e7c062911": 261,
+        "94d5d0a5-e4ac-45af-849a-83ab2274b84e": 1,
+        "ee38dcd2-56a1-4f11-b489-8f7e7c062911": 264,
         "ad58aa83-7662-41cf-bc0d-7659fb44ca5d": 120,
         "1fd3925f-0869-4ea7-98aa-a6612ef9f0ce": 1
       }
@@ -1736,17 +1802,17 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 131,
+    "totalCaptureCount": 134,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 20,
-    "totalBattleVictoryCount": 341,
+    "totalEvolvedCount": 22,
+    "totalBattleVictoryCount": 344,
     "totalPvPBattleVictoryCount": 3,
-    "totalPvWBattleVictoryCount": 338,
+    "totalPvWBattleVictoryCount": 341,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 1,
     "totalTypeCaptureCounts": {
-      "fire": 8,
+      "fire": 9,
       "normal": 20,
       "flying": 15,
       "steel": 6,
@@ -1754,13 +1820,13 @@
       "poison": 12,
       "electric": 5,
       "fighting": 5,
-      "water": 50,
+      "water": 51,
       "rock": 4,
       "psychic": 9,
       "dark": 5,
       "ground": 6,
-      "grass": 6,
-      "dragon": 6,
+      "grass": 7,
+      "dragon": 7,
       "bug": 8,
       "fairy": 5,
       "ice": 6

@@ -414,6 +414,30 @@
             "discoveredTimestamp": 1740083398019,
             "caughtTimestamp": 1740083398019
           }
+        },
+        "gligar": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740230034160,
+            "caughtTimestamp": 1740230034160
+          }
+        },
+        "eternatus": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740231773659,
+            "caughtTimestamp": 1740231773659
+          }
+        },
+        "zygarde": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740232443059,
+            "caughtTimestamp": 1740232443059
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -471,7 +495,10 @@
         "48",
         "49",
         "50",
-        "51"
+        "51",
+        "52",
+        "53",
+        "54"
       ],
       "name": "Cobbledex_RewardHistory"
     },
@@ -514,7 +541,7 @@
         "clodsire": 1,
         "metang": 1,
         "metagross": 1,
-        "groudon": 1,
+        "groudon": 2,
         "marshadow": 1,
         "sprigatito": 1,
         "magnemite": 1,
@@ -527,7 +554,10 @@
         "gible": 1,
         "goomy": 1,
         "sliggoo": 1,
-        "goodra": 1
+        "goodra": 1,
+        "gligar": 1,
+        "eternatus": 1,
+        "zygarde": 1
       }
     },
     "yacb$boostManager": {
@@ -542,7 +572,7 @@
         "labelWeightBoosts": {},
         "endedBoosts": [],
         "shouldSave": false,
-        "saveTimer": 974
+        "saveTimer": 767
       }
     },
     "koStreak": {
@@ -560,7 +590,7 @@
     },
     "captureStreak": {
       "name": "captureStreak",
-      "species": "goomy",
+      "species": "zygarde",
       "count": 1
     },
     "encounter": {
@@ -622,7 +652,10 @@
         "gible": true,
         "goomy": true,
         "sliggoo": true,
-        "goodra": true
+        "goodra": true,
+        "gligar": true,
+        "eternatus": true,
+        "zygarde": true
       }
     },
     "cobblenavPlayerStatsData": {
@@ -632,15 +665,17 @@
       "grantedBadges": [],
       "pokemonUsage": {
         "244e1c4f-4025-41e1-8958-3fa62989bef2": 1,
-        "f45e5149-cb3f-437e-9367-dbe9436870e3": 3,
-        "8406fcde-e691-4e85-9fea-71dea3ac1891": 78,
+        "9991d382-6a6a-4ad8-a1f1-b238918e8566": 3,
+        "8406fcde-e691-4e85-9fea-71dea3ac1891": 82,
         "b2de9cf1-3f83-46e7-bfe0-e0f184818a3d": 1,
         "081bedaf-ac8d-4da4-b7d0-beeff938305d": 1,
-        "832c877d-1f3d-4e28-8a20-657cc916bed7": 1,
-        "a663f36a-f366-4e27-ae71-5414b38af85b": 77,
+        "79805c69-3a6c-4678-bd8e-c00559c0cbdd": 4,
         "d936fce5-f17c-4295-966b-1ae1f8dd5001": 2,
-        "e82fa89a-16fe-4db8-8b21-0df72196e0ce": 10,
-        "fe9ff38c-33ae-4ad7-8135-a8c1dce1b461": 80,
+        "f45e5149-cb3f-437e-9367-dbe9436870e3": 3,
+        "832c877d-1f3d-4e28-8a20-657cc916bed7": 1,
+        "a663f36a-f366-4e27-ae71-5414b38af85b": 81,
+        "e82fa89a-16fe-4db8-8b21-0df72196e0ce": 14,
+        "fe9ff38c-33ae-4ad7-8135-a8c1dce1b461": 84,
         "f759430b-5819-4256-995e-a044e364455d": 5,
         "71ddcd93-5bff-4ed7-afa1-294484042659": 1
       }
@@ -679,17 +714,17 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 36,
+    "totalCaptureCount": 40,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 10,
-    "totalBattleVictoryCount": 59,
+    "totalBattleVictoryCount": 62,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 58,
+    "totalPvWBattleVictoryCount": 61,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 4,
     "totalTradedCount": 7,
     "totalTypeCaptureCounts": {
-      "flying": 4,
+      "flying": 5,
       "normal": 6,
       "ghost": 5,
       "psychic": 3,
@@ -697,14 +732,15 @@
       "steel": 7,
       "rock": 1,
       "dark": 3,
-      "dragon": 5,
+      "dragon": 7,
       "fairy": 2,
       "water": 4,
       "fighting": 2,
       "ice": 1,
-      "ground": 2,
+      "ground": 5,
       "electric": 1,
-      "fire": 1
+      "fire": 1,
+      "poison": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:pyukumuku": 1,

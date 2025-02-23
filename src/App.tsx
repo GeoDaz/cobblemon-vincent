@@ -68,9 +68,9 @@ function App() {
 								key={user.uuid}
 								className={
 									user.topCatches
-										? 'text-yellow-500'
+										? 'text-yellow-500 font-bold'
 										: user.topWins
-										? 'text-orange-500'
+										? 'text-orange-500 font-bold'
 										: ''
 								}
 							>

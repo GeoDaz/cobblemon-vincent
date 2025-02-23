@@ -141,6 +141,12 @@
             "status": "CAUGHT",
             "discoveredTimestamp": 1739543682028,
             "caughtTimestamp": 1739543682028
+          },
+          "galar": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740156840245,
+            "caughtTimestamp": 1740156840245
           }
         },
         "skorupi": {
@@ -1146,6 +1152,38 @@
             "discoveredTimestamp": 1740099947606,
             "caughtTimestamp": 1740099947606
           }
+        },
+        "anorith": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740153482289,
+            "caughtTimestamp": 1740153482289
+          }
+        },
+        "haxorus": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740154770249,
+            "caughtTimestamp": 1740154770249
+          }
+        },
+        "dracozolt": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740162848021,
+            "caughtTimestamp": 1740162848021
+          }
+        },
+        "torchic": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740164823491,
+            "caughtTimestamp": 1740164823491
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1291,7 +1329,12 @@
         "136",
         "137",
         "138",
-        "139"
+        "139",
+        "140",
+        "141",
+        "142",
+        "143",
+        "144"
       ],
       "name": "Cobbledex_RewardHistory"
     },
@@ -1313,7 +1356,7 @@
         "venipede": 1,
         "mankey": 1,
         "psyduck": 2,
-        "mrmime": 1,
+        "mrmime": 2,
         "skorupi": 1,
         "pidgeotto": 1,
         "pidgeot": 1,
@@ -1433,7 +1476,9 @@
         "magby": 1,
         "houndour": 1,
         "celebi": 1,
-        "articuno": 1
+        "articuno": 1,
+        "haxorus": 1,
+        "torchic": 1
       }
     },
     "yacb$boostManager": {
@@ -1538,7 +1583,7 @@
     },
     "captureStreak": {
       "name": "captureStreak",
-      "species": "stufful",
+      "species": "torchic",
       "count": 1
     },
     "encounter": {
@@ -1737,7 +1782,9 @@
         "magby": true,
         "houndour": true,
         "celebi": true,
-        "articuno": true
+        "articuno": true,
+        "haxorus": true,
+        "torchic": true
       }
     },
     "cobblenavPlayerStatsData": {
@@ -1746,20 +1793,20 @@
       "startDate": 1739473654368,
       "grantedBadges": [],
       "pokemonUsage": {
-        "a761aa5b-664e-4cba-9c43-651b5e670db1": 137,
-        "3a1dfdd8-225e-408b-8c03-b1380a3e2496": 436,
+        "a761aa5b-664e-4cba-9c43-651b5e670db1": 143,
+        "3a1dfdd8-225e-408b-8c03-b1380a3e2496": 442,
         "b86fddce-b493-4c5f-ab3e-1f980341208e": 91,
-        "b8549d62-c380-44af-97ee-22e93257788c": 429,
+        "b8549d62-c380-44af-97ee-22e93257788c": 435,
         "70d15141-3a8c-45d6-b1a5-52722f1997ec": 2,
-        "86338702-c4fc-452d-a45f-86b08b555ab0": 443,
+        "86338702-c4fc-452d-a45f-86b08b555ab0": 449,
         "50746a46-158f-474e-86b7-1a7dcf9b446c": 1,
         "911dd49e-2998-435c-8e9b-11c21cd4737a": 15,
         "db876f45-4f23-46c3-8e01-d682585e7b8c": 1,
         "dfcff53b-750a-46fb-b604-3650bba5b12c": 4,
         "08ee9764-89c2-4bde-a290-acae98065ff7": 3,
         "e1581201-e50b-4f2e-8502-8ac3c0a24be3": 211,
-        "cbc7f51f-6cc9-4bde-b48e-79c8bd6f0bbb": 405,
-        "4c0f6ad9-bd1b-4ad1-bf51-15bdbcf515bb": 440
+        "cbc7f51f-6cc9-4bde-b48e-79c8bd6f0bbb": 411,
+        "4c0f6ad9-bd1b-4ad1-bf51-15bdbcf515bb": 446
       }
     },
     "cobblenavContactData": {
@@ -1808,12 +1855,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 128,
+    "totalCaptureCount": 131,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 25,
-    "totalBattleVictoryCount": 426,
+    "totalBattleVictoryCount": 429,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 425,
+    "totalPvWBattleVictoryCount": 428,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 5,
     "totalTradedCount": 3,
@@ -1823,19 +1870,19 @@
       "dark": 9,
       "normal": 13,
       "water": 26,
-      "psychic": 11,
-      "fire": 13,
+      "psychic": 12,
+      "fire": 14,
       "poison": 12,
       "ghost": 20,
       "fighting": 9,
       "fairy": 9,
       "flying": 7,
-      "ice": 6,
+      "ice": 7,
       "grass": 15,
       "steel": 4,
       "ground": 8,
       "rock": 4,
-      "dragon": 5
+      "dragon": 6
     },
     "totalDefeatedCounts": {
       "cobblemon:rattata": 1,

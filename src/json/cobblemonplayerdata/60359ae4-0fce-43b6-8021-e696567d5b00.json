@@ -774,6 +774,14 @@
             "discoveredTimestamp": 1740073362962,
             "caughtTimestamp": 1740073362962
           }
+        },
+        "turtwig": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740221861667,
+            "caughtTimestamp": 1740221861667
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -877,7 +885,8 @@
         "94",
         "95",
         "96",
-        "97"
+        "97",
+        "98"
       ],
       "name": "Cobbledex_RewardHistory"
     },
@@ -975,7 +984,8 @@
         "rayquaza": 3,
         "fraxure": 1,
         "zekrom": 1,
-        "solgaleo": 1
+        "solgaleo": 1,
+        "turtwig": 1
       }
     },
     "yacb$boostManager": {
@@ -995,13 +1005,13 @@
     },
     "koStreak": {
       "name": "koStreak",
-      "species": "sentret",
-      "count": 1
+      "species": "gimmighoul",
+      "count": 2
     },
     "koCount": {
       "name": "koCount",
       "defeats": {
-        "gimmighoul": 11,
+        "gimmighoul": 13,
         "hawlucha": 1,
         "drilbur": 1,
         "pidove": 1,
@@ -1023,7 +1033,7 @@
     },
     "captureStreak": {
       "name": "captureStreak",
-      "species": "solgaleo",
+      "species": "turtwig",
       "count": 1
     },
     "encounter": {
@@ -1138,7 +1148,8 @@
         "glastrier": true,
         "zekrom": true,
         "solgaleo": true,
-        "landorus": true
+        "landorus": true,
+        "turtwig": true
       }
     },
     "cobblenavPlayerStatsData": {
@@ -1149,28 +1160,28 @@
       "pokemonUsage": {
         "386ae12b-2f5b-46ce-9f6e-6ea45b09b555": 39,
         "1872ea8d-47a9-4e05-90e3-cf6689ca3d98": 105,
-        "ba56d3ec-9fba-4264-876b-b6de1f4af1df": 8,
+        "ba56d3ec-9fba-4264-876b-b6de1f4af1df": 13,
         "dc5e2a0e-04b5-4d27-a8af-952760724730": 3,
         "2e3afb19-f4be-4f15-b583-0a6147f0d3d3": 13,
         "94af64ff-728a-400f-8b65-86e35ee49479": 1,
         "ed83bc4b-4e67-4c53-b5da-bd7914aa33a7": 46,
         "b289aded-12f5-42fa-b2b5-0074fe4e07b7": 1,
         "3abef635-8eb4-468e-93e4-93d334538000": 2,
-        "74a10613-d3f7-44e9-80b1-8e7e50b1d08b": 29,
+        "74a10613-d3f7-44e9-80b1-8e7e50b1d08b": 34,
         "ecf0b0b3-c452-4df3-8e76-e02af43a685f": 8,
         "0751869a-1443-4fb9-842d-7b17ece436b2": 6,
-        "ac36e37e-466d-421c-ac17-cac8eb5d875a": 4,
+        "ac36e37e-466d-421c-ac17-cac8eb5d875a": 9,
         "abf637ef-a7d3-4406-a09b-0feaaee6f479": 34,
-        "a45c02a9-c16e-46a4-b8ab-4689e0b8d14c": 103,
+        "a45c02a9-c16e-46a4-b8ab-4689e0b8d14c": 108,
         "dc0acdaa-71cd-48a2-90a6-a7d87397b44f": 2,
         "8a32056e-c032-4564-90a1-992fcd4f38e2": 26,
         "980ea140-ea99-406d-ba96-393df609f629": 1,
         "f40e5f19-323e-4212-8314-142c78ce203e": 45,
-        "f54a0e7c-09db-49e2-8cd0-86a67fbd0530": 6,
+        "f54a0e7c-09db-49e2-8cd0-86a67fbd0530": 11,
         "87c9b87a-582e-4038-9be8-59cc34da2a6e": 1,
         "e19320af-0b2d-4499-b5ed-5fb5e7737895": 6,
         "a19d4a80-9083-4ac6-82e7-e8574f22007d": 46,
-        "88a4f415-2e83-413f-ad89-555404090be1": 15,
+        "88a4f415-2e83-413f-ad89-555404090be1": 20,
         "456b0124-ac67-44a4-a7a4-5a5085a2e5e3": 13,
         "24f53933-633e-4d34-add0-d3d8a70ba2b5": 9,
         "8e948311-c6a9-458c-80fd-dfd221f28780": 12,
@@ -1223,12 +1234,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 84,
+    "totalCaptureCount": 85,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 21,
-    "totalBattleVictoryCount": 85,
+    "totalBattleVictoryCount": 88,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 84,
+    "totalPvWBattleVictoryCount": 87,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 4,
     "totalTradedCount": 0,
@@ -1237,7 +1248,7 @@
       "water": 6,
       "ghost": 4,
       "psychic": 6,
-      "grass": 10,
+      "grass": 11,
       "ice": 2,
       "ground": 6,
       "poison": 8,
@@ -1253,7 +1264,7 @@
       "dragon": 6
     },
     "totalDefeatedCounts": {
-      "cobblemon:gimmighoul": 11,
+      "cobblemon:gimmighoul": 13,
       "cobblemon:hawlucha": 1,
       "cobblemon:drilbur": 1,
       "cobblemon:pidove": 1,
